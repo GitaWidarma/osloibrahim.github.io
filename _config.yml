@@ -1,7 +1,7 @@
-title: Long Haul
+title: Gita Wiidarma
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://github.com/GitaWidarma/osloibrahim
+url: https://github.com/GitaWidarma/osloibrahim.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
