@@ -1,7 +1,7 @@
 title: Gita Wiidarma
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://github.com/gitawidarma/osloibrahim.github.io
+url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,11 +22,11 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: GitaWidarma
+  twitter: GitaWidarma
+  facebook: GitaWidarma
+  email: gitawd30@gmail.com
+  linkedin: GitaWidarma
 
 google_analytics: "UA-58263416-1"
 
